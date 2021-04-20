@@ -1,13 +1,12 @@
 {
     "version": "3.2.2",
     "description": "sublime破解版",
-    "license": "Unlicense",
-    "url": "https://drive.google.com/uc?export=download&id=1f3U-czd-6S15ThCn80UA7Qn6NVXTBLlA",
+    "url": "https://github.com/zm8525215/archive/raw/main/Sublime.7z",
     "bin": "sublime_text_cracked.exe",
     "shortcuts": [
         [
             "sublime_text_cracked.exe",
-            "sublime text"
+            "Sublime Text"
         ]
     ]
 }
