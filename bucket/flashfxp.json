@@ -1,0 +1,12 @@
+{
+    "version": "5.4.0",
+    "description": "flashfxp",
+    "url": "http://d0.ananas.chaoxing.com/download/a3918808915521c90f003bdb30801cf6?at_=1618926402104&ak_=84c4d218326edd89c05ef76f2c4c800e&ad_=fc2aefb3d79640f8cc95bc30f81ce7ef&fn=FlashFXP.7z#/FlashFXP.7z",
+    "bin": "FlashFXP.exe",
+    "shortcuts": [
+        [
+            "FlashFXP.exe",
+            "FlashFXP"
+        ]
+    ]
+}
