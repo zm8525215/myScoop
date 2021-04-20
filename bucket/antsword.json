@@ -4,6 +4,7 @@
     "homepage": "https://github.com/AntSwordProject/AntSword-Loader",
     "license": "Unlicense",
     "url": "https://github.com/AntSwordProject/AntSword-Loader/releases/download/4.0.3/AntSword-Loader-v4.0.3-win32-x64.zip",
+    "extract_dir": "AntSword-Loader-v4.0.3-win32-x64",
     "bin": "AntSword.exe",
     "shortcuts": [
         [
