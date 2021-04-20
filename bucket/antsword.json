@@ -1,0 +1,18 @@
+{
+    "version": "4.0.3",
+    "description": "AntSword loader.",
+    "homepage": "https://github.com/AntSwordProject/AntSword-Loader",
+    "license": "Unlicense",
+    "url": "https://github.com/AntSwordProject/AntSword-Loader/releases/download/4.0.3/AntSword-Loader-v4.0.3-win32-x64.zip",
+    "bin": "AntSword.exe",
+    "shortcuts": [
+        [
+            "AntSword.exe",
+            "AntSword"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/AntSwordProject/AntSword-Loader/releases/download/$version/AntSword-Loader-v$version-win32-x64.zip"
+    }
+}
