@@ -2,6 +2,12 @@
     "version": "13.98",
     "description": "Autoruns. Autostart program viewer.",
     "url": "https://download.sysinternals.com/files/Autoruns.zip",
+    "shortcuts": [
+        [
+            "Autoruns.exe",
+            "Autoruns"
+        ]
+    ],
     "installer": {
         "script": [
             "$sysint = 'HKCU:\\Software\\Sysinternals'",
