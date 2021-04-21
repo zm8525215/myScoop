@@ -2,7 +2,7 @@
     "version": "5",
     "description": "behinder 冰蝎",
     "url": "http://d0.ananas.chaoxing.com/download/df6d380fde80d5de5625a8ef3e94036d?at_=1618972472502&ak_=167794e7ad2e8af770b9bc475905d6cd&ad_=f9edb57948581ed12ded6e4b23267e97&fn=Behinder_v3.0_Beta_5.7z#/Behinder_v3.0_Beta_5.7z",
-    "bin": "Behinder",
+    "bin": "Behinder.lnk",
     "shortcuts": [
         [
             "Behinder",
