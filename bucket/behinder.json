@@ -1,11 +1,11 @@
 {
     "version": "5",
     "description": "behinder 冰蝎",
-    "url": "http://d0.ananas.chaoxing.com/download/1d9531adb7df1789f578f41b0cd0b1a4?at_=1618973451218&ak_=ec2e73ced38f03053e6bad708ce6d75b&ad_=9016382edcc82a366f706a4b80e48d59&fn=Behinder_v3.0_Beta_5.7z#/Behinder_v3.0_Beta_5.7z",
-    "bin": "run.vbs",
+    "url": "http://d0.ananas.chaoxing.com/download/e541e4bd4ed7e5a8d246f0e4767b6564?at_=1618974330470&ak_=5095e31c27fc19387fd593cef2fd08ee&ad_=645dcf609ba89397a43b270ad80a04c0&fn=Behinder_v3.0_Beta_5.7z#/Behinder_v3.0_Beta_5.7z",
+    "bin": "Behinder.jar",
     "shortcuts": [
         [
-            "Behinder",
+            "Behinder.jar",
             "bingxie"
         ]
     ]
