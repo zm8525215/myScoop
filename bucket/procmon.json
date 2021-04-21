@@ -1,0 +1,33 @@
+{
+    "version": "3.61",
+    "description": "ProcessMonitor. Monitor file system, Registry, process, thread and DLL activity in real-time.",
+    "url": "https://download.sysinternals.com/files/ProcessMonitor.zip",
+    "installer": {
+        "script": [
+            "$sysint = 'HKCU:\\Software\\Sysinternals'",
+            "$fin = \"$sysint\\Process Monitor\"",
+            "New-Item $sysint, $fin -ErrorAction SilentlyContinue -Force | Out-Null",
+            "Set-ItemProperty -Path $fin -Name 'EulaAccepted' -Value 1 -Type DWord -Force | Out-Null"
+        ]
+    },
+    "uninstaller": {
+        "script": [
+            "if ($purge) {",
+            "    $sysInt = 'HKCU:\\Software\\Sysinternals'",
+            "    Remove-Item \"$sysInt\\Process Monitor\" -Force -Recurse",
+            "    if ((Get-ChildItem $sysInt).Count -eq 0) { Remove-Item $sysInt -Force -Recurse }",
+            "}"
+        ]
+    },
+    "bin": "Procmon.exe",
+    "shortcuts": [
+        [
+            "Procmon.exe",
+            "Process Monitor"
+        ]
+    ],
+    "checkver": "Process Monitor\\s+v([\\d.]+)</h1",
+    "autoupdate": {
+        "url": "https://download.sysinternals.com/files/ProcessMonitor.zip"
+    }
+}
