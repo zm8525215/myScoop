@@ -10,7 +10,7 @@
 	],
     "shortcuts": [
         [
-            "SciTE.exe",
+            "SciTE\\SciTE.exe",
             "SciTE"
         ]
     ],
