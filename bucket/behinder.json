@@ -5,6 +5,7 @@
     "bin": "Behinder.jar",
     "shortcuts": [
         [
+            "Behinder.jar",
             "Behinder",
             "Bingxie"
         ]
