@@ -1,0 +1,16 @@
+{
+    "version": "9",
+    "description": "behinder 冰蝎",
+    "url": "https://github.com/rebeyond/Behinder/releases/download/Behinder_v3.0_Beta_9/Behinder_v3.0_Beta_9.zip",
+    "bin": "Behinder.jar",
+    "shortcuts": [
+        [
+            "Behinder.jar",
+            "bingxie"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/rebeyond/Behinder/releases/download/Behinder_v3.0_Beta_$version/Behinder_v3.0_Beta_$version.zip"
+    }
+}
