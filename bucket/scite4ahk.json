@@ -1,0 +1,13 @@
+{
+    "version": "3.0.06.01",
+    "description": "ahk编辑器",
+    "url": "https://fincs.ahk4.net/scite4ahk/dl/s4ahk-portable.zip",
+    "extract_dir": "SciTE",
+    "bin": "SciTE.exe",
+    "shortcuts": [
+        [
+            "SciTE.exe",
+            "SciTE"
+        ]
+    ]
+}
