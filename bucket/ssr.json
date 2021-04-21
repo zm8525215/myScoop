@@ -1,0 +1,12 @@
+{
+    "version": "4.9.0",
+    "description": "ssr",
+    "url": "http://d0.ananas.chaoxing.com/download/63d30157c5dff38fd9068cadaf347d4f?at_=1618965946152&ak_=75a31cb9c9ab267bfffd8dfc3fecd697&ad_=4a00a04fdbb84913735d95d51a5ced67&fn=ShadowsocksR-win-4.9.0.7z#/ShadowsocksR-win-4.9.0.7z",
+    "bin": "ShadowsocksR-dotnet4.0.exe",
+    "shortcuts": [
+        [
+            "ShadowsocksR-dotnet4.0.exe",
+            "ssr"
+        ]
+    ]
+}
