@@ -8,7 +8,8 @@
     "shortcuts": [
         [
             "AntSword.exe",
-            "AntSword"
+            "AntSword",
+            "蚁剑"
         ]
     ],
     "checkver": "github",
